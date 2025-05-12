@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7f5fa976fea9a0940b89c6ad95e1c8d8
+  - enabled: 1
+    path: Assets/Scenes/Plvl8.unity
+    guid: c7e32d9163ca1c647abf8355665c8ee2
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: f6dfe9669b018c64f8187a2a380568ed
+  - enabled: 1
+    path: Assets/Scenes/Farest.unity
+    guid: 48440a4830ef9134782c7c190b21fce0
+  - enabled: 1
+    path: Assets/Scenes/Grave.unity
+    guid: 72bfee46078694a4998b5d24112a70c1
+  - enabled: 1
+    path: Assets/Scenes/InterFace.unity
+    guid: b546b5b48a02ae04a9458c82c9db3685
+  - enabled: 1
+    path: Assets/Scenes/Lvl0.unity
+    guid: cc362d8d03657be40a0a797ce6a7b345
+  - enabled: 1
+    path: Assets/Scenes/lvlManager.unity
+    guid: 274abddaa9648894199863526c7a932b
+  - enabled: 1
+    path: Assets/Scenes/Plvl0.unity
+    guid: caf3297774365f24f81ee04d2d776331
+  - enabled: 1
+    path: Assets/Scenes/Plvl1.unity
+    guid: d4bdff8b10e56134e86e9397d9d42726
+  - enabled: 1
+    path: Assets/Scenes/Plvl2.unity
+    guid: 6fbd342fcf815404084cdae9c68771b1
+  - enabled: 1
+    path: Assets/Scenes/Plvl3.unity
+    guid: 6d7b4aa9e4b169942b08c77599d0a9e9
+  - enabled: 1
+    path: Assets/Scenes/Plvl4.unity
+    guid: 326d23e3d1de6e94886bf64808d0031b
+  - enabled: 1
+    path: Assets/Scenes/Plvl5.unity
+    guid: d878e9574ddb08243af47f70c804e706
+  - enabled: 1
+    path: Assets/Scenes/Plvl6.unity
+    guid: 0cd0120a3d64a45498866cb81b64781e
+  - enabled: 1
+    path: Assets/Scenes/Plvl7.unity
+    guid: 94659c5b3b115cb4d98f23dba06ab101
+  - enabled: 1
+    path: Assets/Scenes/Plvl9.unity
+    guid: da76ae38d617db54dbbe9da566759fc5
+  - enabled: 1
+    path: Assets/Scenes/Plvl10.unity
+    guid: a9d1e8d2a4dd4134bad3a6f158ec276e
+  - enabled: 1
+    path: Assets/Scenes/Snow.unity
+    guid: 8aa2049e7eb92b641a9eafa4a9f821da
+  m_configObjects: {}

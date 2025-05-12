@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Die
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1141037649
+    locked: 0
+  - name: TIleMapWithCollider
+    uniqueID: 3700863207
+    locked: 0
+  - name: BackGround
+    uniqueID: 2966799941
+    locked: 0
+  - name: MapLimit
+    uniqueID: 1714037687
+    locked: 0
+  - name: Water
+    uniqueID: 4172178463
+    locked: 0
+  - name: TileMap
+    uniqueID: 1432785435
+    locked: 0
